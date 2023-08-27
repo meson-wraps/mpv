@@ -1,0 +1,13 @@
+[wrap-git]
+directory=FFmpeg
+url=https://github.com/meson-wraps/ffmpeg.git
+revision=meson-6.0
+
+[provide]
+libavcodec=libavcodec_dep
+libavfilter=libavfilter_dep
+libavformat=libavformat_dep
+libavutil=libavutil_dep
+libswresample=libswresample_dep
+libswscale=libswscale_dep
+libavdevice=libavdevice_dep

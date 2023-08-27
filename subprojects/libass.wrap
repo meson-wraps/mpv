@@ -1,0 +1,6 @@
+[wrap-git]
+url = https://github.com/meson-wraps/libass.git
+revision = master
+
+[provide]
+dependency_names = libass

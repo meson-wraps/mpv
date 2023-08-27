@@ -1,0 +1,9 @@
+[wrap-file]
+directory = wayland-protocols-1.25
+source_url = https://wayland.freedesktop.org/releases/wayland-protocols-1.25.tar.xz
+source_filename = wayland-protocols-1.25.tar.xz
+source_hash = f1ff0f7199d0a0da337217dd8c99979967808dc37731a1e759e822b75b571460
+
+[provide]
+wayland-protocols = wayland_protocols
+

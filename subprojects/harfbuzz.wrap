@@ -1,0 +1,6 @@
+[wrap-git]
+url = https://github.com/harfbuzz/harfbuzz.git
+revision = 8.1.1
+
+[provide]
+dependency_names = harfbuzz,harfbuzz-icu,harfbuzz-subset,harfbuzz-gobject

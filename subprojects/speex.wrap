@@ -1,0 +1,6 @@
+[wrap-git]
+url = https://github.com/xiph/speex.git
+revision = 91a59756390be146fa1c8bc73f9825b9f79b686c
+
+[provide]
+speex = speex_dep

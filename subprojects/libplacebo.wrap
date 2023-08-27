@@ -1,0 +1,6 @@
+[wrap-git]
+url = https://github.com/haasn/libplacebo.git
+revision = v6.292.1
+
+[provide]
+dependency_names = libplacebo
